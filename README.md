@@ -45,9 +45,14 @@ Ask your agent: **"fix the failing tests"**. The skill loads and follows the wor
 
 ## Manual edition
 
-This repository is the workflow and the hard rules. The paid edition on Agensi adds two
-zero-dependency scripts that do the mechanical part — detect the runner, run once, print
-failures as JSON, rerun only the failing files and classify each as flaky or consistent.
+This repository is the workflow and the hard rules: it stays free, MIT-0, and nothing in
+it is crippled.
+
+The paid edition is the same method plus two zero-dependency scripts that do the
+mechanical part — detect the runner, run once, print failures as JSON, rerun only the
+failing files and classify each as flaky or consistent:
+
+**https://www.agensi.io/skills/test-fix** — $9, one-time, 30-day money-back guarantee.
 
 ## License
 
